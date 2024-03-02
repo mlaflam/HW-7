@@ -1,0 +1,11 @@
+res://Scripts/Scripts Only for Homework Exercises/rotate_for_HW_scene_one.gd
+res://homework_scene_one.tscn
+res://demo_scene_class.tscn
+res://homework_scene_two.tscn
+res://homework_scene_three.tscn
+res://homework_scene_four.tscn
+res://Scripts/CharacterMovement.gd
+res://Scripts/Scripts Only for Homework Exercises/rotate_for_HW_scene_two.gd
+res://Scripts/Scripts Only for Homework Exercises/rotate_for_HW_scene_three.gd
+res://Scripts/Scripts Only for Homework Exercises/ShowHide_HW_four.gd
+res://demo_scene_complete.tscn
